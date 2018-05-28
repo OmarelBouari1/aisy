@@ -14,7 +14,7 @@
                         </div>
                     @endif
                         @if (Auth::user()->role_id == 2)
-                        <div>thshhjsjh</div>
+                        <div>bla bla </div>
                         @endif
                     welcome <b>{{ Auth::user()->role_id }}</b>
                 </div>
